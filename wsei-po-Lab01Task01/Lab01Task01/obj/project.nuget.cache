@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OYglpXQ+77YYKCwfCyf430zhBr5UmaA/IK7k9DjhuxhIINEhvPtfWpuEsR3DwrjmbNZm3HBoZ633mXBipwFm0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bluej\\RiderProjects\\wsei-po-Lab01Task01\\Lab01Task01\\Lab01Task01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bluej\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\bluej\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\bluej\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\bluej\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
