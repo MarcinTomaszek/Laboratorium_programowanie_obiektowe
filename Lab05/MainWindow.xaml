@@ -1,0 +1,25 @@
+﻿<Window x:Class="Lab05.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab05"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="800" >
+    <StackPanel VerticalAlignment="Center">
+        <!--<Button Click="ButtonBase_OnClick" MouseEnter="ButtonBase_OnClick" Height="50" Margin="0 0 0 10" Width="100">Click Me</Button> 
+        <Label x:Name="TextBox" Height="50" Width="200" ></Label>-->
+        
+        <Label Height="50" Width="200" Content="Source Unit" ></Label>
+        <ListBox x:Name="Units" ></ListBox>
+        
+        <Label Height="50" Width="200" Content="Target Unit" ></Label>
+        <ListBox x:Name="UnitsTarget" ></ListBox>
+        
+        <TextBox x:Name="value" Height="50" Width="200"></TextBox>
+        <Button Click="Result_OnClick" Height="50" Width="200">Result</Button>
+        <Label x:Name="result" Height="50" Width="200" ></Label>
+        
+    </StackPanel>
+</Window>
+ 
